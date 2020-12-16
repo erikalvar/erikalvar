@@ -6,7 +6,7 @@
 - 📝 I’m currently working as a fulltime TA for Actualize Coding Bootcamp
 - 💻 I’m looking for a job in fullstack or backend development
 - 👋 I’m interested in talking to and meeting as many coders as I can
-- 🗄 My portfolio is at [https://erikalvar.com/](https://erikalvar.com/)
+- 🗄 My portfolio is at [erikalvar.com](https://erikalvar.com/)
 - 🪕 I play bluegrass music
 
 <p align="center">
