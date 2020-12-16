@@ -9,9 +9,8 @@
 - 🗄 My portfolio is at [https://erikalvar.com/](https://erikalvar.com/)
 - 🪕 I play about bluegrass music
 
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikalvar)](https://github.com/erikalvar/github-readme-stats)
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erikalvar&layout=compact" alt="erikalvar" /></p>
+
 
 <p align="center">
 <a href="https://twitter.com/erikalvarmusic" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="erikalvarmusic" height="30" width="30" /></a>
