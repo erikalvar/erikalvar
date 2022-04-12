@@ -3,9 +3,9 @@
   <h3>Developer • Musician</h3>
 </div>
 
-- 📝 I’m currently working as a fulltime TA for Actualize Coding Bootcamp
-- 💻 I’m looking for a job in fullstack or backend development
-- 🗄 My portfolio is at [erikalvar.com](https://erikalvar.com/)
+- 👋 I’m a software developer and touring musician
+- 💻 I’m looking to get off the road and find a job in coding
+- 🗄 My portfolio and bio are at [erikalvar.com](https://erikalvar.com/)
 - 🪕 I play bluegrass music
 
 <p align="center">
